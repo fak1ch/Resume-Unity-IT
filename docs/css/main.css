@@ -607,7 +607,11 @@ body {
 }
 
 .main .sidebar .connection .connection__item .link:hover .svg__github {
-    fill: #fff
+    fill: white;
+}
+
+.github{
+    fill: white;
 }
 
 .main .sidebar .connection .connection__item .link:hover .svg__phone {
